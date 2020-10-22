@@ -1,4 +1,6 @@
 # hello-world
-first temp repository
+first temp repo
 
 Цей текст написаний тут для першого тестового коміту.
+
+А цей - для другого.
